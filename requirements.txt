@@ -5,4 +5,4 @@ pypdf
 python-multipart
 python-dotenv
 chromadb
-sentence-transformers
+onnxruntime
